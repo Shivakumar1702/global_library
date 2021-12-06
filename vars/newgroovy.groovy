@@ -1,1 +1,3 @@
-println "Hi World"
+def printname(){
+  println "Hi World"
+}
