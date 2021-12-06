@@ -1,3 +1,3 @@
-def printName(){
-  println "Hi World"
+def printName(name){
+  echo name
 }
